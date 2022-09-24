@@ -1,6 +1,7 @@
 Check out my new portfolio on [notion](https://www.notion.so/Dongwook-Hwang-0b437e6486e342b3ad4c46d05828697a)! :rocket: (updated 2021.01.07)
 
 [![inhibitor1217's github stats](https://github-readme-stats.vercel.app/api?username=inhibitor1217)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=inhibitor)](https://solved.ac/inhibitor)
 
 <!--
 **inhibitor1217/inhibitor1217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
